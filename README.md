@@ -1,1 +1,1 @@
-https://aiastia.github.io/time/
+https://aiastia.github.io
